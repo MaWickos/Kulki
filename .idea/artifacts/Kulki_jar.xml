@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Kulki:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Kulki_jar</output-path>
+    <root id="archive" name="Kulki.jar">
+      <element id="module-output" name="Kulki" />
+    </root>
+  </artifact>
+</component>
